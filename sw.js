@@ -1,6 +1,6 @@
 /* Kocia Tabliczka — service worker.
    Po zmianie plików podnieś numer wersji, żeby telefon pobrał nowe. */
-const CACHE = 'kocia-tabliczka-v2';
+const CACHE = 'kocia-tabliczka-v3';
 const SHELL = [
   './',
   './index.html',
